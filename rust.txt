@@ -7,3 +7,10 @@ enum option <T> {
 Some<T>,
 None,
 }
+
+now i wiil add about struct
+struct Talha {
+
+name:String,
+age:u32,
+}
